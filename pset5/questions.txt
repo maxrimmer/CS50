@@ -1,0 +1,26 @@
+0.  TODO
+    A word included in the large dictionary, and the largest word in the Oxford english dictionary
+1.  TODO
+    returns resource usage measures, for the argument passed in
+2.  TODO
+    16
+3.  TODO
+    Because it is quicker
+4.  TODO
+    It starts by getting the next letter from the text. And checking if the letter is EOF
+    It then goes on to be sure that it is an alphanumeric or an apostrophie.
+    Then the letter is appended to the current word.
+    It then checks for a couble of more things to be sure that we are checking small enough words, and that it isn't containing numbers
+    It then terminate the word, and checking the timing, and printing the word out if mispelled
+5.  TODO
+    It is more dificult to check for the things mentioned above, and it takes more time. As well as the fact that every word isn't stopped by a \0 in a text
+6.  TODO
+    If the parameters change, the result will be different
+7.  TODO
+    A hashtable, build on the struct with a char*, and a pointer to the next node.
+8.  TODO
+    1.48 on austinpowers.
+9.  TODO
+    I didn't.
+10. TODO
+    I think that if I had access to more memory, I could have made an extremly fast check, due to the hashfunction I used.
